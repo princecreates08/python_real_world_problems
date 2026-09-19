@@ -1,32 +1,37 @@
 # Python Real-World Problems 🚀
 
-A collection of beginner Python programs that I built while learning
-programming through practical, real-world problems.
+A collection of beginner Python programs that I am building while
+learning programming through practical, real-world problems.
 
 ## 📂 Programs
 
-### 1. ATM Withdrawal System
+### 1. ATM Withdrawal System 🏧
 - Checks available balance
 - Processes withdrawal
 - Calculates remaining balance
 
-### 2. Traffic Fine Calculator
+### 2. Traffic Fine Calculator 🚦
 - Takes vehicle speed as input
 - Calculates fine based on speed
 - Handles vehicles within the speed limit
 
-### 3. Shopping Bill Calculator
+### 3. Shopping Bill Calculator 🛒
 - Takes multiple items and prices
 - Calculates total bill
 - Applies discount based on total amount
+
+### 4. Electricity Bill Calculator 💡
+- Takes electricity units consumed
+- Calculates bill based on different unit slabs
+- Displays the applicable unit charge
 
 ## 🧠 Concepts I'm Learning
 
 - Variables
 - User Input
-- Conditional Statements
 - `if / elif / else`
 - Arithmetic Operators
+- Comparison Operators
 - Basic Problem Solving
 
 ## 🎯 Goal
